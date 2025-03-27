@@ -1,8 +1,8 @@
 # Simple Calculator
+A beginner-friendly calculator app built as part of my front-end development practice.
+It's a simple web-based application using HTML, CSS, and JavaScript.
 
-🚀 [Live Demo](https://nanachiki.github.io/Simple-Calculator/)
-
-A simple web-based calculator application built with HTML, CSS, and JavaScript.
+🚀 [Check out the live demo](https://nanachiki.github.io/Simple-Calculator/)
 
 ## Features
 
