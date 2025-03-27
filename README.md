@@ -1,4 +1,7 @@
 # Simple Calculator
+
+🚀 [Live Demo](https://nanachiki.github.io/Simple-Calculator/)
+
 A simple web-based calculator application built with HTML, CSS, and JavaScript.
 
 ## Features
